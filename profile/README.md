@@ -8,3 +8,6 @@ Do not download or view any files or pages from the Internet Archive in the mont
 I have now reserved it and have placed the original project links from the Internet Archive with the valid date that the account was in the hands of its original owner.
 ## Notice 2
 I do not approve or disapprove of any similar repository, all decisions will be up to you; I have included the original links from the Internet Archive with valid dates.
+## Notice 3
+The real reason for the deletion of the vxiiduu GitHub account is unknown, but it is likely that it was deleted by Microsoft.<br>
+There is also no activity seen from its account on msfn.org.
