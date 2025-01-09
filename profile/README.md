@@ -7,3 +7,5 @@ Do not download or view any files or pages from the Internet Archive in the mont
 I have now reserved it and have placed the original project links from the Internet Archive with the valid date that the account was in the hands of its original owner.
 ## Notice 2
 The vxkex project is being developed in the following repository: https://github.com/i486/VxKex
+## New 👌
+Found another repository published by dotexe1337: https://github.com/dotexe1337/VxKex
