@@ -5,3 +5,5 @@ To find the original project files on the Internet Archive, visit the following 
 [Original VxKex](https://web.archive.org/web/20240328131915/https://github.com/vxiiduu/VxKex)<br>
 Do not download or view any files or pages from the Internet Archive in the months following the date the account was deleted by its original owner, as they may contain malicious files, as the account was in the hands of the scammers for several months. At that time, the Internet Archive archived the pages associated with this account and the repository.<br>
 I have now reserved it and have placed the original project links from the Internet Archive with the valid date that the account was in the hands of its original owner.
+## Notice 2
+Active Development At https://github.com/dotexe1337/VxKex
